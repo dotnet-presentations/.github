@@ -26,6 +26,7 @@ configuration:
          - learn-build-service-test[bot]
          - learn-build-service-ppe[bot]
          - learn-build-service-prod[bot]
+         - copilot-swe-agent[bot]
          - CBL-Mariner-Bot
          - pbicvbot
          - acomghbot
